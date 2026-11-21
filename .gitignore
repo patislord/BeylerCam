@@ -1,0 +1,17 @@
+# Python
+pc/.venv/
+__pycache__/
+*.pyc
+
+# Derleme araçları (büyük arşivler)
+pc/cmdline-tools.zip
+pc/gradle.zip
+
+# Windows / editör
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Kişisel kısayol
+claude_code_shortcut.bat

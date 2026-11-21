@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeylerCam</string>
+    <string name="switch_camera">Kamera değiştir</string>
+    <string name="dim_screen">Ekranı karart</string>
+    <string name="dim_hint">BeylerCam yayında\nEkrana dokununca açılır</string>
+    <string name="enter_ip_hint">PC uygulamasına bu adresi gir</string>
+    <string name="no_network">Wi-Fi bağlantısı yok</string>
+    <string name="waiting_pc">PC bağlantısı bekleniyor…</string>
+    <string name="connected_to">Bağlı: %1$s</string>
+    <string name="camera_permission_denied">Kamera izni verilmedi. Ayarlardan izin verip uygulamayı yeniden aç.</string>
+    <string name="camera_back">Arka kamera</string>
+    <string name="camera_front">Ön kamera</string>
+</resources>
